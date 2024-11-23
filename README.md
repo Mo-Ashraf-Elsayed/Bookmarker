@@ -1,6 +1,7 @@
 # Bookmarker By HTML,CSS,Bootstrap & JS
 
-## You can \(add and delete\) sites you visit it alot in a table 
+## You can \(add and delete\) sites you visit it alot in a table
+
 - Add site name ===> Must be a valid name
 - Add site URL ===> Must be a valid URL
 - Submit
